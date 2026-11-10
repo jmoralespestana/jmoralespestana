@@ -1,1 +1,21 @@
-{"username":"jmoralespestana","id":"33264241","name":"Juan Ignacio Morales Pestana","company":"","web":"","location":"","email":"","hireable":false,"bio":"","twitter_username":"","headline":"","linkedin_username":"","telegram_username":"","categories":[]}
+{
+  "username": "jmoralespestana",
+  "id": "33264241",
+  "name": "Juan Ignacio Morales Pestana",
+  "company": "juanignaciomorales.com",
+  "web": "https://juanignaciomorales.com",
+  "location": "Remote (US / LATAM / EU)",
+  "email": "",
+  "hireable": true,
+  "bio": "Principal Software & AI Systems Architect (+12 yrs) | Fractional CTO & Executive Advisor. Resilient Distributed Systems, Sovereign AI Agents & Cloud FinOps.",
+  "twitter_username": "jimoralespestana",
+  "headline": "Principal Software & AI Systems Architect (+12 yrs) | Build the Machine. Own the Outcome.",
+  "linkedin_username": "jmoralespestana",
+  "telegram_username": "",
+  "categories": [
+    "Software Architecture",
+    "Backend & Distributed Systems",
+    "Artificial Intelligence & Agents",
+    "Data Engineering & Cloud FinOps"
+  ]
+}

@@ -9,7 +9,7 @@
 <div align="center">
   <a href="https://juanignaciomorales.com?utm_source=github&utm_medium=profile_badges"><img src="https://img.shields.io/badge/Executive_Hub-juanignaciomorales.com-1D4ED8?style=for-the-badge" alt="juanignaciomorales.com" /></a>
   <a href="https://www.youtube.com/@jimoralespestana"><img src="https://img.shields.io/badge/YouTube-@jimoralespestana-0F172A?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube @jimoralespestana" /></a>
-  <a href="https://www.linkedin.com/in/jmoralespestana/"><img src="https://img.shields.io/badge/LinkedIn-/in/jmoralespestana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn /in/jmoralespestana" /></a>
+  <a href="https://www.linkedin.com/in/jimoralespestana/"><img src="https://img.shields.io/badge/LinkedIn-/in/jimoralespestana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn /in/jimoralespestana" /></a>
   <a href="https://juanignaciomorales.com/en/newsletter?utm_source=github&utm_medium=profile_badges"><img src="https://img.shields.io/badge/Newsletter-The_Architect's_Dispatch-334155?style=for-the-badge" alt="The Architect's Dispatch Newsletter" /></a>
 </div>
 
@@ -56,4 +56,4 @@ Explore our open diagnostic calculators and architectural blueprints directly on
 
 - 🌐 **Executive Diagnostic & Advisory (ES / EN / PT)**: [juanignaciomorales.com/en/diagnostic](https://juanignaciomorales.com/en/diagnostic?utm_source=github&utm_medium=profile_footer)
 - ✉️ **Weekly 3-Minute Dispatch (*The Architect's Dispatch / El Despacho del Arquitecto*)**: [juanignaciomorales.com/en/newsletter](https://juanignaciomorales.com/en/newsletter?utm_source=github&utm_medium=profile_footer)
-- 💼 **LinkedIn**: [linkedin.com/in/jmoralespestana](https://www.linkedin.com/in/jmoralespestana/)
+- 💼 **LinkedIn**: [linkedin.com/in/jimoralespestana](https://www.linkedin.com/in/jimoralespestana/)

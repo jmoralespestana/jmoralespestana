@@ -7,7 +7,7 @@
 <br />
 
 <div align="center">
-  <a href="https://juanignaciomorales.com?utm_source=github&utm_medium=profile_badges"><img src="https://img.shields.io/badge/Executive_Hub-juanignaciomorales.com-1D4ED8?style=for-the-badge" alt="juanignaciomorales.com" /></a>
+  <a href="https://juanignaciomorales.com/en/anti-waf-pipeline?utm_source=github&utm_medium=profile_badges"><img src="https://img.shields.io/badge/Flagship_Architecture-Anti--WAF_&_Self--Healing-1D4ED8?style=for-the-badge" alt="Anti-WAF & Self-Healing Architecture" /></a>
   <a href="https://www.youtube.com/@jimoralespestana"><img src="https://img.shields.io/badge/YouTube-@jimoralespestana-0F172A?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube @jimoralespestana" /></a>
   <a href="https://www.linkedin.com/in/jimoralespestana/"><img src="https://img.shields.io/badge/LinkedIn-/in/jimoralespestana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn /in/jimoralespestana" /></a>
   <a href="https://juanignaciomorales.com/en/newsletter?utm_source=github&utm_medium=profile_badges"><img src="https://img.shields.io/badge/Newsletter-The_Architect's_Dispatch-334155?style=for-the-badge" alt="The Architect's Dispatch Newsletter" /></a>
@@ -15,45 +15,43 @@
 
 ---
 
-### Principal Software & AI Systems Architect (+12 yrs) · Fractional CTO & Executive Advisor
+### Principal Systems & AI Architect (+12 yrs) · Anti-WAF Data Pipelines, `<15ms` Go Engines & PostgreSQL HA
 
 > **"Build the Machine. Own the Outcome."**  
-> *Construye la máquina. Adueñate del resultado. — Sistemas resilientes e IA soberana sin entropía operativa.*
+> *Designing fault-tolerant extraction engines, high-concurrency Go/Python backends, and High-Availability PostgreSQL architectures deployed inside your private cloud (`VPC`).*
 
-I design and deploy **high-availability distributed systems**, **sovereign multi-agent AI architectures**, and **high-margin data/cloud foundations** for B2B engineering and executive teams. Instead of fragile demos or bloated SaaS sprawl, I focus on deterministic production systems deployed inside the client's own cloud (`VPC`) with measurable P&L and latency guarantees.
+I partner with data-intensive startups, B2B SaaS teams, and engineering agencies to eliminate **Cloudflare/Akamai scraping blackouts**, replace slow legacy backends with **sub-15ms Go & Python AsyncIO microservices**, and cut **AWS & residential proxy spend by 40%–60%**.
 
 ---
 
-### ⚙️ Core Engineering & Architecture Pillars
+### ⚙️ Core Production Engineering Pillars
 
-| Domain | Production Focus | Core Stack & Patterns |
+| Domain | Production Outcome | Core Stack & Battle-Tested Patterns |
 | :--- | :--- | :--- |
-| **01 · Distributed Systems & Resilience** | Eliminating cascading outages, race conditions, and single points of failure under high load. | `Go` · `Python (FastAPI/Async)` · `Kubernetes` · `Circuit Breaker` · `Transactional Outbox` · `Idempotency` · `DLQ` |
-| **02 · Sovereign AI & Agentic Systems** | Deterministic 3-layer agentic orchestration (`SOPs -> Skills -> Playbooks`) & hybrid enterprise retrieval without vendor lock-in. | `LangGraph` · `PydanticAI` · `PostgreSQL 16` · `pgvector + BM25 RRF` · `MCP / WebMCP` · `Strict RBAC` |
-| **03 · Data Platforms & Cloud FinOps** | Replacing `$8,500+/mo` fragmented SaaS/cloud bills with lean, high-throughput Medallion Lakehouse & sovereign infrastructure. | `Medallion Architecture` · `dbt` · `DuckDB / BigQuery` · `Redis Streams` · `OpenTelemetry` · `Cloud FinOps` |
+| **01 · Tiered Anti-WAF & Self-Healing Extraction** | `>99.2%` continuous extraction uptime while cutting headless Chromium & proxy burn by `~60%`. | `Python AsyncIO` · `curl_cffi` · `selectolax` · `Playwright / Camoufox` · `Redis Identity Forge` · `LangGraph Self-Healing` · `pg_trgm + RapidFuzz` |
+| **02 · High-Concurrency Go & Distributed Backends** | Sub-15ms in-memory phonetic/fuzzy screening (`-70%` RAM vs. Python/Oracle) & outage-proof APIs. | `Go (Golang / Gin)` · `FastAPI` · `Prefix Tries` · `Circuit Breakers` · `Bulkheads (K8s / KEDA Spot)` · `Monadic Result Pattern` · `DLQ` |
+| **03 · High-Availability PostgreSQL & Cloud FinOps** | Consolidating `$8,500+/mo` fragmented cloud sprawl into lean HA topologies (`-45%` p95 latency). | `PostgreSQL 16/18 HA` · `Streaming Replication` · `pgvector + BM25` · `Idempotent Micro-Batching` · `Change Data Capture (CDC)` |
 
 ---
 
-### 🛠️ Live Interactive Engineering Tools & Production Blueprints (`$0`)
+### 📦 Featured Reference Architectures & Open Blueprints
 
-Explore our open diagnostic calculators and architectural blueprints directly on **[juanignaciomorales.com](https://juanignaciomorales.com?utm_source=github&utm_medium=profile_body)**:
-
-- 🔍 **[20-Point Live Website & AI Search Auditor](https://juanignaciomorales.com/en/tools/ai-web-auditor?el=gh-jmoralespestana-profile-readme-ai-web-auditor-v1&utm_source=github&utm_medium=profile_readme&utm_campaign=github_profile)** — Automated real-time HTTP scanner evaluating executive clarity, B2B conversion, `JSON-LD`, `robots.txt` AI crawler permissions, `/llms.txt`, and `/.well-known/mcp.json`.
-- 📊 **[Cloud & Operational Risk ROI Calculator](https://juanignaciomorales.com/en/tools/oaas-roi-calculator?el=gh-jmoralespestana-profile-readme-roi-calculator-v1&utm_source=github&utm_medium=profile_readme&utm_campaign=github_profile)** — Quantify the exact annual financial leakage caused by manual glue-code, unplanned downtime, and oversized cloud bills.
-- 📐 **[Production Stack Blueprint (`$320/mo` vs. `$8,500/mo`)](https://juanignaciomorales.com/en/resources/lm-0001-production-stack-blueprint?el=gh-jmoralespestana-profile-readme-lm0001-v1&utm_source=github&utm_medium=profile_readme&utm_campaign=github_profile)** — Reference topology using PostgreSQL 16 (`pgvector` + `pg_search` BM25) + Redis Streams + FastAPI/Go workers.
-- 🛡️ **[Atlas of 12 Production Resilience Patterns](https://juanignaciomorales.com/en/resources/lm-0006-resilience-patterns-atlas?el=gh-jmoralespestana-profile-readme-lm0006-v1&utm_source=github&utm_medium=profile_readme&utm_campaign=github_profile)** — Implementation guide for Circuit Breakers, Bulkheads, Saga/Outbox, Rate Limiting, and Chaos Testing.
+- 🛡️ **[`tiered-antiwaf-selfhealing-blueprint`](https://github.com/jmoralespestana/tiered-antiwaf-selfhealing-blueprint)** — Reference **Python 3.12+ AsyncIO** extraction engine implementing Monadic `Result` escalation (`Tier-0.5 <800ms HTTP` $\rightarrow$ single-flight `WAF Identity Forge` cookie reuse $\rightarrow$ `Stealth Browser` fallback) + sandboxed LLM DOM-selector self-healing without redeployments.
+- 🧠 **[`orders-rag-basic`](https://github.com/jmoralespestana/orders-rag-basic)** — Production **PostgreSQL 18 + Python 3.14 (`UUIDv7`)** deterministic NL2SQL & Hybrid RAG architecture featuring AST-level SQL validation (`sqlglot`), strict read-only RBAC, integer minor-unit ledger safety, and reprocessable `DLQ`.
+- 📐 **[Ungated Anti-WAF Architecture Breakdown + 24h Blocked-URL Proof](https://juanignaciomorales.com/en/anti-waf-pipeline?el=gh-jmoralespestana-profile-readme-antiwaf-v1&utm_source=github&utm_medium=profile_readme&utm_campaign=github_profile)** — Full 5-layer architecture walkthrough and zero-risk 24-hour benchmark on your hardest target URL.
+- 📊 **[Cloud FinOps & Operational Risk ROI Calculator](https://juanignaciomorales.com/en/tools/oaas-roi-calculator?el=gh-jmoralespestana-profile-readme-roi-calculator-v1&utm_source=github&utm_medium=profile_readme&utm_campaign=github_profile)** — Quantify annual margin leakage from oversized cloud clusters, proxy sprawl, and unplanned incidents.
 
 ---
 
-### 📺 Latest Published Architecture Breakdowns on YouTube (`@jimoralespestana`)
+### 📺 Architecture Breakdowns on YouTube (`@jimoralespestana`)
 
 - ▶ **[Anatomy of a $50k/Hour Production Outage & How Resilience Patterns Prevent It](https://www.youtube.com/@jimoralespestana)** (`YTB-V-0001`)
 - ▶ **[The Modern Data Stack Explained: Medallion Lakehouse Architecture in Production](https://www.youtube.com/@jimoralespestana)** (`YTB-V-0020`)
 
 ---
 
-### 🤝 Executive Advisory & Contact
+### 🤝 Sprints, White-Label Architecture & Direct Contact
 
-- 🌐 **Executive Diagnostic & Advisory (ES / EN / PT)**: [juanignaciomorales.com/en/diagnostic](https://juanignaciomorales.com/en/diagnostic?utm_source=github&utm_medium=profile_footer)
-- ✉️ **Weekly 3-Minute Dispatch (*The Architect's Dispatch / El Despacho del Arquitecto*)**: [juanignaciomorales.com/en/newsletter](https://juanignaciomorales.com/en/newsletter?utm_source=github&utm_medium=profile_footer)
-- 💼 **LinkedIn**: [linkedin.com/in/jimoralespestana](https://www.linkedin.com/in/jimoralespestana/)
+- ⚡ **24-Hour Blocked-URL Proof & Architecture Sprints**: [juanignaciomorales.com/en/anti-waf-pipeline](https://juanignaciomorales.com/en/anti-waf-pipeline?utm_source=github&utm_medium=profile_footer)
+- 🩺 **Executive Architecture Diagnostic**: [juanignaciomorales.com/en/diagnostic](https://juanignaciomorales.com/en/diagnostic?utm_source=github&utm_medium=profile_footer)
+- ✉️ **Direct Engineering Contact**: `juan@juanignaciomorales.com` · [LinkedIn `/in/jimoralespestana`](https://www.linkedin.com/in/jimoralespestana/)
